@@ -1,0 +1,7 @@
+# Evita conflictos y archivos innecesarios
+node_modules
+.next
+.env
+*.log
+Dockerfile
+.dockerignore
